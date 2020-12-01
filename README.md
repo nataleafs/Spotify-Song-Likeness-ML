@@ -28,7 +28,7 @@ The datasets of 100 songs each makes it difficult for more complex ML projects t
 ## References 
 This list is a non-exhaustive list of the main sources of information used in working on this project.
 
-https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
-https://machinelearningknowledge.ai/mini-ml-project-predicting-song-likeness-from-spotify-playlist/
-https://www.kaggle.com/nxrprime/spotify-song-eda
-https://www.kaggle.com/cnic92/spotify-songs-attributes-eda
+- https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
+- https://machinelearningknowledge.ai/mini-ml-project-predicting-song-likeness-from-spotify-playlist/
+- https://www.kaggle.com/nxrprime/spotify-song-eda
+- https://www.kaggle.com/cnic92/spotify-songs-attributes-eda
